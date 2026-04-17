@@ -1,0 +1,13 @@
+{
+  "itemGroup.nestsentials": "Example Mod Tab",
+  "block.nestsentials.example_block": "Example Block",
+  "item.nestsentials.example_item": "Example Item",
+
+  "nestsentials.configuration.title": "Example Mod Configs",
+  "nestsentials.configuration.section.nestsentials.common.toml": "Example Mod Configs",
+  "nestsentials.configuration.section.nestsentials.common.toml.title": "Example Mod Configs",
+  "nestsentials.configuration.items": "Item List",
+  "nestsentials.configuration.logDirtBlock": "Log Dirt Block",
+  "nestsentials.configuration.magicNumberIntroduction": "Magic Number Text",
+  "nestsentials.configuration.magicNumber": "Magic Number"
+}

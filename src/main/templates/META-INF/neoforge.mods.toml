@@ -46,8 +46,7 @@ displayName="${mod_name}" #mandatory
 
 # The description text for the mod (multi line!) (#mandatory)
 description='''
-Example mod description.
-'''
+NeoForge 1.21.1 "EssentialsX-clone-made-mod-thing" made for my private server network (also known as 'The Nest')!'''
 
 # The [[mixins]] block allows you to declare your mixin config to FML so that it gets loaded.
 #[[mixins]]

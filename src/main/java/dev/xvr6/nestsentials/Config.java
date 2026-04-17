@@ -1,4 +1,4 @@
-package com.example.examplemod;
+package dev.xvr6.nestsentials;
 
 import java.util.List;
 import java.util.Set;
